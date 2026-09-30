@@ -2,6 +2,10 @@
 
 Comparative analysis of four emerging economies using World Bank Open Data (WDI) and IMF World Economic Outlook data, 2000-2024. The project pulls the data through public APIs, builds an Excel workbook and an interactive HTML dashboard, and is accompanied by a 2-page analytical brief.
 
+Live Dasboard 
+<img width="1860" height="785" alt="image" src="https://github.com/user-attachments/assets/9fe4560d-96e6-4bb1-91f6-4a20af0b07bc" />
+<img width="1840" height="938" alt="image" src="https://github.com/user-attachments/assets/068ef82c-a3d6-45a5-9841-046fec9b7a0f" />
+
 
 
 ## Questions answered
