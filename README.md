@@ -2,7 +2,7 @@
 
 Comparative analysis of four emerging economies using World Bank Open Data (WDI) and IMF World Economic Outlook data, 2000-2024. The project pulls the data through public APIs, builds an Excel workbook and an interactive HTML dashboard, and is accompanied by a 2-page analytical brief.
 
-**Live dashboard:** _add your GitHub Pages link here after publishing_
+
 
 ## Questions answered
 1. Which economies saw the greatest deterioration in macroeconomic conditions (2015-19 vs 2021-24)?
